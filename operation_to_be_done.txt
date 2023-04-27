@@ -1,0 +1,8 @@
+https://www.transmissionzero.co.uk/software/freeglut-devel/
+
+source          Destination
+------          -----------------
+freeglut        C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32
+1. include\GL   1. include\GL
+2. lib\x64      2. lib
+3. bin\x64      3.C:\Windows\System32
